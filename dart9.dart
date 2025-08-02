@@ -1,8 +1,8 @@
 // Function
 
 void main() {
-  printMsg("Phuriwat");
-  print(getMsg("Phuriwat"));
+  printMsg("Bambo");
+  print(getMsg("Bambo"));
   print(add(10, 20));
 }
 
